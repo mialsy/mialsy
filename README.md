@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💻 I am currently first year master student in Computer Science at USFCA.
 - 🌱 As I am kind of new to coding, recently I am learning React, system programing, and android developmet.
 - 👯 I am also looking for internship and open-source project to contribute to!
-- 🐱 Random things: I love cats and here is two boys living with me ⬇️
+- 🐱 Random things: I love cats and here are two boys living with me ⬇️
 
 ![alt text](https://github.com/mialsy/mialsy/blob/master/WechatIMG16.jpeg)
 
