@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I am currently first year master student in Computer Science at USFCA.
+- 🌱 As I am kind of new to coding, recently I am learning React, system programing, and android developmet.
+- 👯 I am also looking for internship and open-source project to contribute to!
+- 🐱 Random things: I love cats and here is two boys living with me
