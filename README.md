@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I am currently first year master student in Computer Science at USFCA.
+- 🎯 2021 goal：solve more problem and think more comprehensively.
 - 🌱 I am kind of new to coding. recently I am learning React, system programing, and android development.
 - 👯 I am also looking for internship and open-source project to contribute to!
 - 🐱 Random things: I love cats and here are two boys living with me ⬇️
