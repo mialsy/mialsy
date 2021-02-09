@@ -26,6 +26,4 @@ Here are some ideas to get you started:
 
 - 🐱 Random things: I love cats and here are two boys living with me ⬇️
 
-![]()
-
 <img alt="Cat jpg, does not matter that much, but if you are really curious, you can check out my ins:_mialsy_" src="https://github.com/mialsy/mialsy/blob/master/WechatIMG16.jpeg" width="800">
