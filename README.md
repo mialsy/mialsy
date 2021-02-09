@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 👯 I am also looking for internship and open-source project to contribute to!
 - 📌 Most recent project demo:
 
-![alt text](https://github.com/mialsy/mialsy/blob/master/MKmainDemo.gif)
+![Demo gif, please let me know if you have trouble seeing this](https://github.com/mialsy/mialsy/blob/master/MKmainDemo.gif)
 
 - 🐱 Random things: I love cats and here are two boys living with me ⬇️
 
-![alt text](https://github.com/mialsy/mialsy/blob/master/WechatIMG16.jpeg)
+![Cat jpg, does not matter that much, but if you want to see, you can follow my ins: _mialsy_](https://github.com/mialsy/mialsy/blob/master/WechatIMG16.jpeg)
 
