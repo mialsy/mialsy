@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I am kind of new to coding. Recently I am learning React, system programing, and mobile development.
 - 👯 I am also looking for internship and open-source project to contribute to!
 - 📌 Most recent project demo:
+
 ![alt text](https://github.com/mialsy/mialsy/blob/master/MKmainDemo.gif)
 
 - 🐱 Random things: I love cats and here are two boys living with me ⬇️
