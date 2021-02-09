@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 - 🐱 Random things: I love cats and here are two boys living with me ⬇️
 
-![Cat jpg, does not matter that much, but if you want to see, you can check out my ins: mialsy](https://github.com/mialsy/mialsy/blob/master/WechatIMG1.jpeg)
+![Cat jpg, does not matter that much, but if you want to see, you can check out my ins: mialsy](https://github.com/mialsy/mialsy/blob/master/WechatIMG16.jpeg)
 
