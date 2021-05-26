@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 👯 I am also looking for internship and open-source project to contribute to!
 - 📌 Most recent project demo:
   - Web Frontend:
-    <img alt="Demo web gif, please let me know if you have trouble seeing this" src="https://github.com/mialsy/mialsy/blob/master/profolio/MKmainDemo.gif" width="800">
+    
+    <img alt="Demo web gif, please let me know if you have trouble seeing this" src="https://github.com/mialsy/mialsy/blob/master/profolio/MKmainDemo.gif" width="700">
   - iOS app:
  
     <img alt="Demo ios gif, please let me know if you have trouble seeing this" src="https://github.com/mialsy/mialsy/blob/master/profolio/ezgif-7-65b694fbbf08.gif" width="200">
