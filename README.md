@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img alt="Demo ios gif, please let me know if you have trouble seeing this" src="https://github.com/mialsy/mialsy/blob/master/profolio/ezgif-7-65b694fbbf08.gif" width="200">
   - Cloud Storage Server with golang:
   
-  Check out this repo👉 https://github.com/mialsy/system-p4-cloud-storage-system
+    Check out this repo👉 https://github.com/mialsy/system-p4-cloud-storage-system
 
 - 🐱 Random things: I love cats and here are two boys living with me ⬇️
 
