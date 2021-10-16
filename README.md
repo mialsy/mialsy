@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 💻 I am currently first year master student in Computer Science at USFCA.
 - 🎯 2021 goal：solve more problem and think more comprehensively.
 - 🌱 I am kind of new to coding. Recently I am learning React, system programing, and mobile development.
 - 👯 I am also looking for internship and open-source project to contribute to!
+- 👩🏻‍💻 Checkout my resume [here](https://github.com/mialsy/My-Resume/blob/master/Chuxi_Wang_resume_2021_Aug.pdf)!
 - 📌 Most recent project demo:
   - Web Frontend:
     
@@ -33,3 +35,4 @@ Here are some ideas to get you started:
 - 🐱 Random things: I love cats and here are two boys living with me ⬇️
 
     <img alt="Cat jpg, does not matter that much, but if you are really curious, you can check out my ins:_mialsy_" src="https://github.com/mialsy/mialsy/blob/master/WechatIMG16.jpeg" width="800">
+  
