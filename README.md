@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 💻 I am currently first year master student in Computer Science at USFCA.
-- 🎯 2022 goal：write a game!
+- 🎯 2022 goal：write a game & contribute to open source project! 
 - 🌱 I am kind of new to coding. 
 - 👯 I am looking for open-source project to contribute to!
 - 👩🏻‍💻 Checkout my resume [here](https://github.com/mialsy/My-Resume/blob/master/Chuxi_Wang_resume_2021_Aug.pdf)!
