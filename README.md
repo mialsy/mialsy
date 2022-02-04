@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 - 💻 I am currently first year master student in Computer Science at USFCA.
-- 🎯 2021 goal：solve more problem and think more comprehensively.
-- 🌱 I am kind of new to coding. Recently I am learning React, system programing, and mobile development.
-- 👯 I am also looking for internship and open-source project to contribute to!
+- 🎯 2022 goal：write a game!
+- 🌱 I am kind of new to coding. 
+- 👯 I am looking for open-source project to contribute to!
 - 👩🏻‍💻 Checkout my resume [here](https://github.com/mialsy/My-Resume/blob/master/Chuxi_Wang_resume_2021_Aug.pdf)!
 - 📊 GitHub Stats:
 
@@ -27,9 +27,14 @@ Here are some ideas to get you started:
     [![Chuxi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mialsy)](https://github.com/mialsy)
     
 - 📌 Most recent project demo:
-  - Web Frontend:
+  - Buy Ticket App:
 
-    <img alt="Demo web gif, please let me know if you have trouble seeing this" src="https://github.com/mialsy/mialsy/blob/master/profolio/MKmainDemo.gif" width="700">
+    <img alt="Demo web gif, please let me know if you have trouble seeing this" src="https://github.com/mialsy/Ticket-App/blob/main/demo.gif" width="700">
+    
+  - TRPG Game Helper App:
+
+    <img alt="Demo web gif, please let me know if you have trouble seeing this" src="https://github.com/mialsy/CoC-Game-Helper/blob/main/images/demo_in_game.gif" width="700">
+ 
   - Cloud Storage Server with golang:
   
     Check out this repo👉 https://github.com/mialsy/system-p4-cloud-storage-system
